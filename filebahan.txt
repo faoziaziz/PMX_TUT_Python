@@ -1,0 +1,4 @@
+Ini adalah file untuk latihan parser
+
+Total :                 400,51 $
+Total IVA 20%          1000,40 $
